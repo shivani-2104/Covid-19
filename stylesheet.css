@@ -1,0 +1,29 @@
+.starting
+{
+    float:right;
+    width:20%;
+    
+}
+.first_div{
+    width:66%;
+    float:left;
+    text-align: center;
+}
+.boxed {
+  border: 1px solid green ;
+  padding: 20px;
+  font-size:20px;
+  background-color:#f5f5f5;
+  width:40%;
+  alignment-adjust: central;
+  margin-left: 193px;
+}
+label{
+        min-width: 150px;
+    display: inline-block;
+    
+}
+.big_div{
+    padding:20px;
+}
+create table mst_table( source_type varchar(30),Source_District varchar(30),Pass_Scope varchar(30),Place_to_visit varchar(30),District varchar(30),Name varchar(30),Gender  varchar(30),Addrress  varchar(30),Email  varchar(30),Mobile_No varchar(30),Vehicle_Type  varchar(30),Vehicle_Registration_No   varchar(30)    );
